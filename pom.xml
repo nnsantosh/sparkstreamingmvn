@@ -11,7 +11,7 @@
         <scala.version>2.12.10</scala.version>
         <spark.version>3.0.0</spark.version>
         <kafka.version>2.4.0</kafka.version>
-        <log4j.version>2.13.3</log4j.version>
+        <log4j.version>2.17.0</log4j.version>
         <postgresql.version>42.2.2</postgresql.version>
         <cassandraconnector.version>3.0.0-alpha2</cassandraconnector.version>
 
